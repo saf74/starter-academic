@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Yale Program on Financial Stability, Yale School of Management
+    url: https://som.yale.edu/faculty-research-centers/centers-initiatives/program-on-financial-stability
 education:
   courses:
     - course: PhD in Artificial Intelligence
